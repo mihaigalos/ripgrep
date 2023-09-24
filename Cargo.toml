@@ -1,12 +1,9 @@
 [package]
 name = "ripgrep"
-version = "13.0.0"  #:version
+version = "13.0.0"
 authors = ["Andrew Gallant <jamslam@gmail.com>"]
-description = """
-ripgrep is a line-oriented search tool that recursively searches the current
-directory for a regex pattern while respecting gitignore rules. ripgrep has
-first class support on Windows, macOS and Linux.
-"""
+description = "ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern while respecting gitignore rules. ripgrep has first class support on Windows, macOS and Linux."
+
 documentation = "https://github.com/BurntSushi/ripgrep"
 homepage = "https://github.com/BurntSushi/ripgrep"
 repository = "https://github.com/BurntSushi/ripgrep"
